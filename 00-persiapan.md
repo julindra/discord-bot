@@ -6,6 +6,7 @@ Untuk mengikuti tutorial ini, pastikan kamu sudah memiliki:
 1. Akun Discord
 2. Server Discord  
 sebaiknya gunakan server Discord baru yang khusus untuk testing
+3. Node.js
 
 ## Pendaftaran Aplikasi & Bot
 
@@ -35,4 +36,4 @@ Bot pada Discord ditambahkan ke server melalui OAuth URL khusus dan unik
 
 Pada tahap ini, kamu sudah berhasil membuat & menambahkan bot ke server kamu :tada:
 
-[Next: 01. Hello Bot](./01-hello-bot.md)
+[Next: 1. Hello Bot](./01-hello-bot.md)
